@@ -1,0 +1,9 @@
+Hi User! Welcome to the bank! Generally the software is intuitive, and guides you through its use itself. 
+A few good things to know: 
+
+A username and password are used to determine which account is logged in. 
+
+The admin accounts are Ryan Ellis, with password "quake" and David Heath with password "admin".
+The user accounts are Phil Swift, with password "flex", and Guy Feiri with password "flavortown".
+
+Also to note. Some of the task noted in the assignment sheet may be bundeled within menus, so make sure you try them all.
